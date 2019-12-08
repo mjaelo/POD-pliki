@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  szyfr_siatkowy.cpp
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(157,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(174,15): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(284,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(339,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(377,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(464,21): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(539,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\szyfr_siatkowy\szyfr_siatkowy\szyfr_siatkowy.cpp(543,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  szyfr_siatkowy.vcxproj -> C:\studia\sem5\POD\szyfr_siatkowy\Debug\szyfr_siatkowy.exe
