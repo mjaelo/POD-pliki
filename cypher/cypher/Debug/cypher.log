@@ -1,0 +1,8 @@
+﻿  cypher.cpp
+C:\studia\sem5\POD\cypher\cypher\cypher.cpp(30,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\cypher\cypher\cypher.cpp(53,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\cypher\cypher\cypher.cpp(80,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\cypher\cypher\cypher.cpp(95,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\cypher\cypher\cypher.cpp(102,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\studia\sem5\POD\cypher\cypher\cypher.cpp(124,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  cypher.vcxproj -> C:\studia\sem5\POD\cypher\Debug\cypher.exe

@@ -1,0 +1,3 @@
+﻿  testy_losowosci.cpp
+C:\studia\sem5\POD\testy_losowosci\testy_losowosci\testy_losowosci.cpp(45,26): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  testy_losowosci.vcxproj -> C:\studia\sem5\POD\testy_losowosci\Debug\testy_losowosci.exe
