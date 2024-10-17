@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <groovy.version>2.5.8</groovy.version>
+        <groovy.version>2.5.14</groovy.version>
 
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <groovy.compilier.version>3.5.0-01</groovy.compilier.version>
